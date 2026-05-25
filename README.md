@@ -212,7 +212,6 @@ Use voice? (y/n):
 * Enter `y` for voice input
 * Enter `n` for text input
 
----
 
 ---
 
