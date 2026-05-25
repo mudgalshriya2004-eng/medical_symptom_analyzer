@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Flu",
+    "symptoms": ["fever", "cough", "cold", "body pain"],
+    "medicines": ["Paracetamol", "Antihistamine"],
+    "advice": ["Rest", "Drink warm fluids"]
+  },
+  {
+    "name": "Food Poisoning",
+    "symptoms": ["nausea", "vomiting", "diarrhea"],
+    "medicines": ["ORS", "Antiemetic"],
+    "advice": ["Stay hydrated", "Avoid outside food"]
+  },
+  {
+    "name": "Common Cold",
+    "symptoms": ["runny nose", "sneezing", "sore throat"],
+    "medicines": ["Antihistamine", "Decongestant"],
+    "advice": ["Drink warm water", "Take rest"]
+  },
+  {
+    "name": "Migraine",
+    "symptoms": ["headache", "nausea", "sensitivity to light"],
+    "medicines": ["Pain reliever", "Triptans"],
+    "advice": ["Rest in dark room", "Avoid stress"]
+  },
+  {
+    "name": "Diabetes",
+    "symptoms": ["frequent urination", "increased thirst", "fatigue"],
+    "medicines": ["Insulin", "Metformin"],
+    "advice": ["Maintain diet", "Regular exercise"]
+  },
+  {
+    "name": "Hypertension",
+    "symptoms": ["headache", "dizziness", "blurred vision"],
+    "medicines": ["Amlodipine", "Losartan"],
+    "advice": ["Reduce salt intake", "Exercise regularly"]
+  },
+  {
+    "name": "Asthma",
+    "symptoms": ["shortness of breath", "wheezing", "chest tightness"],
+    "medicines": ["Inhaler", "Bronchodilator"],
+    "advice": ["Avoid allergens", "Use inhaler properly"]
+  },
+  {
+    "name": "Typhoid",
+    "symptoms": ["high fever", "weakness", "abdominal pain"],
+    "medicines": ["Antibiotics", "Paracetamol"],
+    "advice": ["Drink clean water", "Eat light food"]
+  },
+  {
+    "name": "Dengue",
+    "symptoms": ["high fever", "joint pain", "rash"],
+    "medicines": ["Paracetamol"],
+    "advice": ["Drink fluids", "Avoid mosquito bites"]
+  },
+  {
+    "name": "Malaria",
+    "symptoms": ["fever", "chills", "sweating"],
+    "medicines": ["Antimalarial drugs"],
+    "advice": ["Use mosquito nets", "Take full medication course"]
+  },
+  {
+    "name": "Pneumonia",
+    "symptoms": ["cough", "fever", "difficulty breathing"],
+    "medicines": ["Antibiotics", "Cough syrup"],
+    "advice": ["Take rest", "Stay warm"]
+  },
+  {
+    "name": "Tuberculosis",
+    "symptoms": ["persistent cough", "weight loss", "night sweats"],
+    "medicines": ["Isoniazid", "Rifampicin"],
+    "advice": ["Complete full treatment", "Maintain hygiene"]
+  },
+  {
+    "name": "Chickenpox",
+    "symptoms": ["itchy rash", "fever", "fatigue"],
+    "medicines": ["Antihistamine", "Calamine lotion"],
+    "advice": ["Avoid scratching", "Stay isolated"]
+  },
+  {
+    "name": "Measles",
+    "symptoms": ["rash", "fever", "runny nose"],
+    "medicines": ["Vitamin A", "Paracetamol"],
+    "advice": ["Vaccination", "Isolation"]
+  },
+  {
+    "name": "Allergy",
+    "symptoms": ["sneezing", "itching", "rash"],
+    "medicines": ["Antihistamine"],
+    "advice": ["Avoid allergens", "Keep surroundings clean"]
+  },
+  {
+    "name": "Acidity",
+    "symptoms": ["heartburn", "stomach pain", "bloating"],
+    "medicines": ["Antacids"],
+    "advice": ["Avoid spicy food", "Eat on time"]
+  },
+  {
+    "name": "Constipation",
+    "symptoms": ["difficulty passing stool", "abdominal pain"],
+    "medicines": ["Laxatives"],
+    "advice": ["Drink water", "Eat fiber-rich food"]
+  },
+  {
+    "name": "Depression",
+    "symptoms": ["sadness", "loss of interest", "fatigue"],
+    "medicines": ["Antidepressants"],
+    "advice": ["Counseling", "Stay connected with people"]
+  },
+  {
+    "name": "Anxiety",
+    "symptoms": ["restlessness", "rapid heartbeat", "sweating"],
+    "medicines": ["Anti-anxiety drugs"],
+    "advice": ["Meditation", "Relaxation techniques"]
+  },
+  {
+    "name": "COVID-19",
+    "symptoms": ["fever", "cough", "loss of taste", "breathing issues"],
+    "medicines": ["Paracetamol", "Antivirals"],
+    "advice": ["Isolation", "Wear mask"]
+  },
+  {
+    "name": "Kidney Stones",
+    "symptoms": ["severe pain", "blood in urine", "nausea"],
+    "medicines": ["Pain relievers"],
+    "advice": ["Drink water", "Avoid salty food"]
+  }
+]
