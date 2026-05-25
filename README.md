@@ -132,7 +132,7 @@ The project generates a complete patient report including:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/mudgalshriya2004-eng/medical_symptom_analyzer.git
+git clone <your-github-repository-link>
 ```
 
 ---
@@ -153,6 +153,44 @@ pip install -r requirements.txt
 
 ---
 
+# 📦 Required Python Libraries
+
+Install all required libraries manually if needed:
+
+```bash
+pip install speechrecognition
+pip install gtts
+pip install playsound==1.2.2
+pip install pyaudio
+pip install deep-translator
+```
+
+---
+
+# 🎤 Voice Input Setup
+
+This project uses:
+
+* `SpeechRecognition` for voice recognition
+* `PyAudio` for microphone access
+* `gTTS` for AI voice output
+* `playsound` for audio playback
+
+---
+
+# ⚠ PyAudio Installation (Important)
+
+If `pyaudio` installation gives an error on Windows:
+
+## Install using:
+
+```bash
+pip install pipwin
+pipwin install pyaudio
+```
+
+---
+
 # ▶️ How to Run the Project
 
 Run the following command:
@@ -160,6 +198,21 @@ Run the following command:
 ```bash
 python run.py
 ```
+
+---
+
+# 🎙 Voice Mode
+
+When the project starts:
+
+```text
+Use voice? (y/n):
+```
+
+* Enter `y` for voice input
+* Enter `n` for text input
+
+---
 
 ---
 
