@@ -132,7 +132,7 @@ The project generates a complete patient report including:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-github-repository-link>
+git clone https://github.com/mudgalshriya2004-eng/medical_symptom_analyzer.git
 ```
 
 ---
